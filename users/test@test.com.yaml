@@ -1,0 +1,9 @@
+super: true
+name: ahksm
+avatar: photo_2023-07-31_13-30-41.jpg
+id: df530d43-26d0-405c-a826-dbb6072c99cb
+password_hash: $2y$10$nFXIb5nASHmfxUTiJFDgjuvyZO0XXrBmpvpTbxp.oaH/udzeQl2Xi
+preferences:
+  collections:
+    pages:
+      after_save: create_another
